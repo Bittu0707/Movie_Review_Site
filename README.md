@@ -33,3 +33,16 @@ A full-stack Movie Review application built using the **MERN Stack** (MongoDB, E
 - bcrypt.js
 
 ---
+
+## ⚙️ Installation
+
+### Prerequisites:
+- Node.js
+- MongoDB
+- npm or yarn
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/your-username/movie-review-site.git
+cd movie-review-site
