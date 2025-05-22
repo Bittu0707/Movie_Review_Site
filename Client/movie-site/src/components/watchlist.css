@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.movie-in-watchlist {
+    display: flex;
+    align-items: center;
+    border: 2px solid grey;
+    margin: 20px 280px 20px 280px;
+    background-color: rgba(245, 241, 237, 0.746); 
+    position: relative;   
+}
+.movie-in-watchlist .cross {
+    font-size: 50px;
+}
+.movie-in-watchlist img{
+    height: 150px;
+    width: 150px;
+    margin: 15px 130px 15px 20px;
+    display: flex;
+}
+.movie-in-watchlist ul {
+    display: flex;
+    flex-direction: column;
+    color: rgb(19, 130, 134);
+    align-items: baseline;
+    list-style: none;
+}
+.movie-in-watchlist li {
+    align-items: center;
+}
+.cross {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 1000;
+  }
+
+  

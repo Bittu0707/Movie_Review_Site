@@ -1,0 +1,137 @@
+[
+    {
+        "id": 21,
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "image": "/data/movie-image/inception.jpeg",
+        "stars": "Leonardo DiCaprio, Joseph Gordon-Levitt, Tom Hardy",
+        "description": "A thief who enters the dreams of others to steal their secrets is given a chance to have his past crimes erased."
+    },
+    {
+        "id": 22,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "director": "Christopher Nolan",
+        "image": "/data/movie-image/thedarknight.jpeg",
+        "stars": "Christian Bale, Heath Ledger, Aaron Eckhart",
+        "description": "Batman battles the Joker, who seeks to create chaos in Gotham City."
+    },
+    {
+        "id": 23,
+        "title": "Titanic",
+        "year": 1997,
+        "director": "James Cameron",
+        "image": "/data/movie-image/titanic.jpeg",
+        "stars": "Leonardo DiCaprio, Kate Winslet",
+        "description": "A love story between Jack and Rose unfolds aboard the ill-fated Titanic."
+    },
+    {
+        "id": 24,
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "director": "Anthony Russo, Joe Russo",
+        "image": "/data/movie-image/endgame.jpeg",
+        "stars": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "description": "The Avengers reunite for a final stand against Thanos to restore balance to the universe."
+    },
+    {
+        "id": 25,
+        "title": "Interstellar",
+        "year": 2014,
+        "director": "Christopher Nolan",
+        "image": "/data/movie-image/interstellar.jpeg",
+        "stars": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+        "description": "A group of astronauts travel through a wormhole in search of a new home for humanity."
+    },
+    {
+        "id": 26,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "director": "Frank Darabont",
+        "image": "/data/movie-image/shawshank.jpeg",
+        "stars": "Tim Robbins, Morgan Freeman",
+        "description": "A man wrongly convicted of murder finds hope and friendship in prison."
+    },
+    {
+        "id": 27,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "director": "Robert Zemeckis",
+        "image": "/data/movie-image/forrest_gump.jpeg",
+        "stars": "Tom Hanks, Robin Wright",
+        "description": "The life journey of Forrest Gump, a kind-hearted man with a low IQ."
+    },
+    {
+        "id": 28,
+        "title": "Jurassic Park",
+        "year": 1993,
+        "director": "Steven Spielberg",
+        "image": "/data/movie-image/jurassic_park.jpeg",
+        "stars": "Sam Neill, Laura Dern, Jeff Goldblum",
+        "description": "A group of people try to survive on an island where dinosaurs have been brought back to life."
+    },
+    {
+        "id": 29,
+        "title": "The Matrix",
+        "year": 1999,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "image": "/data/movie-image/matrix.jpeg",
+        "stars": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "description": "A hacker discovers that reality is an illusion created by machines."
+    },
+    {
+        "id": 30,
+        "title": "Gladiator",
+        "year": 2000,
+        "director": "Ridley Scott",
+        "image": "/data/movie-image/gladiator.jpeg",
+        "stars": "Russell Crowe, Joaquin Phoenix",
+        "description": "A betrayed Roman general seeks revenge against the corrupt emperor who murdered his family."
+    },
+    {
+        "id": 31,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "director": "Quentin Tarantino",
+        "image": "/data/movie-image/pulp_fiction.jpeg",
+        "stars": "John Travolta, Uma Thurman, Samuel L. Jackson",
+        "description": "A nonlinear crime drama following multiple intertwining stories."
+    },
+    {
+        "id": 32,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "director": "Peter Jackson",
+        "image": "/data/movie-image/lotr_returns.jpeg",
+        "stars": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+        "description": "The final battle for Middle-earth as Frodo reaches Mount Doom."
+    },
+    {
+        "id": 33,
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "director": "Steven Spielberg",
+        "image": "/data/movie-image/saving_private_ryan.jpeg",
+        "stars": "Tom Hanks, Matt Damon",
+        "description": "A group of soldiers embark on a mission to save a paratrooper behind enemy lines."
+    },
+    {
+        "id": 34,
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "director": "Jon Watts",
+        "image": "/data/movie-image/no_way_home.jpeg",
+        "stars": "Tom Holland, Zendaya, Benedict Cumberbatch",
+        "description": "Peter Parker deals with the consequences of his identity being revealed."
+    },
+    {
+        "id": 35,
+        "title": "The Godfather",
+        "year": 1972,
+        "director": "Francis Ford Coppola",
+        "image": "/data/movie-image/godfather.jpg",
+        "stars": "Marlon Brando, Al Pacino",
+        "description": "The aging patriarch of a crime family transfers control to his reluctant son."
+    }
+]

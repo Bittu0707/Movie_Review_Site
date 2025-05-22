@@ -1,0 +1,95 @@
+.container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(18, 18, 18, 0.886);
+}
+
+.formContainer {
+    position: fixed;
+    width: 400px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(38, 38, 38, 0.167);
+    top: 60%;
+    right: 50%;
+    transform: translate(50%, -58%);
+}
+
+.container .formContainer h1 {
+    text-align: center;
+    color: #3c009d;
+}
+
+.container .underline {
+    width: 65px;
+    height: 5px;
+    background-color: #3c009d;
+    border-radius: 9px;
+    margin-left: 8rem;
+    margin-top: 10px;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    margin: 15px auto;
+    border-radius: 8px;
+}
+
+.login label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.login input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.passwordText {
+    color: blue;
+    cursor: pointer;
+    margin: 25px 0px;
+}
+
+.formContainer button {
+    background-color: #4c00b4;
+    color: white;
+    width: 100%;
+    border: none;
+    padding: 10px 0px;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.cross {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 24px;
+    color: #333;
+    transition: color 0.3s ease, transform 0.2s ease;
+    z-index: 1000;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.register {
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.register a {
+    color: rgb(65, 65, 219);
+    cursor: pointer;
+}

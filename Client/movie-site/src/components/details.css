@@ -1,0 +1,63 @@
+body {
+    background-color: rgba(0, 0, 0, 0.825);
+}
+
+.details {
+    margin: 30px;
+}
+
+.details h1 {
+    text-align: center;
+    color: rgb(126, 24, 24);
+}
+
+.movie-content {
+    display: flex;
+}
+
+.details img {
+    height: 300px;
+    width: 250px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.content {
+    color: aliceblue;
+    margin: 100px;
+    margin-top: 80px;
+}
+.details-btn {
+    background-color: rgba(165, 60, 60, 0.922);
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(224, 210, 210);
+}
+
+.comment-section {
+    margin-top: 30px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
+.comment-section h3 {
+    margin: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.comment-section textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.comment-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.comment-section li {
+    background: #f4f4f4;
+    margin-bottom: 8px;
+    padding: 10px;
+    border-radius: 6px;
+}

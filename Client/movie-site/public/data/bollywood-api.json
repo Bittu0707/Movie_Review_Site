@@ -1,0 +1,137 @@
+[
+    { 
+        "id": 1,
+        "title": "Chhaava",
+        "year": 2024,
+        "director": "Laxman Utekar",
+        "image": "/data/movie-image/Chhaava.jpeg",
+        "stars": "Vicky Kaushal, Akshaye Khanna, Rashmika Mandanna",
+        "description": "A historical drama based on the life of Chhatrapati Sambhaji Maharaj, the son of Chhatrapati Shivaji Maharaj."
+    },
+    { 
+        "id": 2,
+        "title": "K.G.F",
+        "year": 2018,
+        "director": "Prashanth Neel",
+        "image": "/data/movie-image/kgf.jpeg",
+        "stars": "Yash, Srinidhi Setty",
+        "description": "In the 1970s, a gangster named Rocky goes undercover as a slave to assassinate the owner of a notorious gold mine known as the Kolar Gold Fields."
+    },
+    {
+        "id": 3,
+        "title": "Do Patti",
+        "year": 2024,
+        "director": "Shashanka Chaturvedi",
+        "image": "/data/movie-image/dopatti.jpeg",
+        "stars": "Kajol, Kriti Sanon, Shaheer Sheikh",
+        "description": "A puzzling investigation leads a no-nonsense cop down a dark path involving the vicious rivalry between twin sisters and the volatile man they both love."
+    },
+    {
+        "id": 4,
+        "title": "Ye Jawaani Hai Deewani",
+        "year": 2013,
+        "director": "Ayan Mukerji",
+        "image": "/data/movie-image/YJHD.jpeg",
+        "stars": "Ranbir Kapoor, Deepika Padukone",
+        "description": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again."
+    },
+    {
+        "id": 5,
+        "title": "Pushpa",
+        "year": 2021,
+        "director": "Sukumar",
+        "image": "/data/movie-image/pushpa.jpeg",
+        "stars": "Allu Arjun, Rashmika Mandanna",
+        "description": "A labourer rises through the ranks of a red sandalwood smuggling syndicate, making some powerful enemies in the process."
+    },
+    {
+        "id": 6,
+        "title": "Azaad",
+        "year": 2024,
+        "director": "Sudha Kongara",
+        "image": "/data/movie-image/azaad.jpeg",
+        "stars": "Ajay Devgn, Rasha Thadani",
+        "description": "Set in the 1920s, a stablehand's dream of riding a high-spirited stallion lands him in the middle of India's fight for independence from British rule."
+    },
+    {
+        "id": 7,
+        "title": "The Sabarmati Report",
+        "year": 2024,
+        "director": "Ranjan Chandel",
+        "image": "/data/movie-image/sabarmati.jpeg",
+        "stars": "Vikrant Massey, Ridhi Dogra",
+        "description": "A Hindi reporter struggles with a deadly fact when a train full of Karsewaks is set ablaze in Godhra."
+    },
+    {
+        "id": 8,
+        "title": "Jigra",
+        "year": 2024,
+        "director": "Vasan Bala",
+        "image": "/data/movie-image/jigra.jpeg",
+        "stars": "Alia Bhatt, Vedang Raina, Sikandar Kher",
+        "description": "When Ankur is wrongfully imprisoned and sentenced to death in a foreign country, his steely sister Satya is driven by a lethal resolve to break him free."
+    },
+    {
+        "id": 9,
+        "title": "Mr and Mrs Mahi",
+        "year": 2024,
+        "director": "Sharan Sharma",
+        "image": "/data/movie-image/mahi.jpeg",
+        "stars": "Rajkumar Rao, Janhvi Kapoor, Rajesh Sharma",
+        "description": "A married couple who share a love for cricket begin training in the game due to her natural talent."
+    },
+    {
+        "id": 10,
+        "title": "Savi",
+        "year": 2024,
+        "director": "Abhinay Deo",
+        "image": "/data/movie-image/savi.jpeg",
+        "stars": "Divya Khosla Kumar, Harshvardhan Rane",
+        "description": "Savi, a simple housewife, attempts a daring jailbreak to get her husband out of one of England's high-security prisons."
+    },
+    {
+        "id": 11,
+        "title": "Srikanth",
+        "year": 2024,
+        "director": "Tushar Hiranandani",
+        "image": "/data/movie-image/srikanth.jpeg",
+        "stars": "Alaya F, Rajkumar Rao",
+        "description": "A visually-impaired man overcomes extreme obstacles in education and business in this biopic chronicling the life of industrialist Srikanth Bolla."
+    },
+    {
+        "id": 12,
+        "title": "RRR",
+        "year": 2022,
+        "director": "S.S. Rajamouli",
+        "image": "/data/movie-image/rrr.jpeg",
+        "stars": "Ram Charan, N.T. Rama Rao Jr., Ajay Devgn, Alia Bhatt",
+        "description": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India."
+    },
+    {
+        "id": 13,
+        "title": "Dhoom Dhaam",
+        "year": 2024,
+        "director": "Aditya Dhar",
+        "image": "/data/movie-image/dhoomdhaam.jpeg",
+        "stars": "Yami Gautam, Prateek Gandhi",
+        "description": "An oddball couple is thrust into a chaotic chase, dodging goons and cops in a frenzied hunt for the mysterious 'Charlie'."
+    },
+    {
+        "id": 14,
+        "title": "Salaar",
+        "year": 2023,
+        "director": "Prashanth Neel",
+        "image": "/data/movie-image/salaar.jpeg",
+        "stars": "Prabhas, Prithviraj Sukumaran, Sriya Reddy, Shruti Hassan",
+        "description": "In the crime-infested Khansaar, Prince Varadha sets to ascend the throne. But a coup d'état is planned! And there's only one man to help reclaim power: Deva."
+    },
+    {
+        "id": 15,
+        "title": "Bhool Bhulaiyaa 3",
+        "year": 2024,
+        "director": "Anees Bazmee",
+        "image": "/data/movie-image/BhoolBhulaiya3.jpeg",
+        "stars": "Kartik Aaryan, Madhuri Dixit, Vidya Balan, Tripti Dimri",
+        "description": "A fake ghostbuster is blackmailed into helping a royal family with their haunted palace, but dueling demonic possessions complicate matters."
+    }
+]
