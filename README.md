@@ -22,7 +22,7 @@ A full-stack Movie Review application built using the **MERN Stack** (MongoDB, E
 - React.js
 - Axios
 - React Router
-- Tailwind CSS / Bootstrap (optional)
+- Tailwind CSS
 
 **Backend:**
 - Node.js
@@ -30,7 +30,6 @@ A full-stack Movie Review application built using the **MERN Stack** (MongoDB, E
 - MongoDB
 - Mongoose
 - JSON Web Token (JWT)
-- bcrypt.js
 
 ---
 
